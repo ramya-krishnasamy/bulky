@@ -1,0 +1,12 @@
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.csproj.AssemblyReference.cache
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.AssemblyInfoInputs.cache
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.AssemblyInfo.cs
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.csproj.CoreCompileInputs.cache
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.deps.json
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.dll
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.pdb
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.dll
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/refint/Bulky.Utility.dll
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.pdb
+/Users/ajeyraj/Documents/My Projects/DotNetProjects/Bulky/Bulky.Utility/obj/Debug/net7.0/ref/Bulky.Utility.dll

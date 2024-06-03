@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Bulkyweb_razor.props" />
+</Project>
